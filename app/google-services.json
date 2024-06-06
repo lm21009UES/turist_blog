@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239445122178",
+    "project_id": "turistblog-cb775",
+    "storage_bucket": "turistblog-cb775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239445122178:android:6cdf3a6790488d4b92a89b",
+        "android_client_info": {
+          "package_name": "com.example.turistblog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO5yGY3KtRMYFgOVjy1G-pMP5bPjtbXfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
